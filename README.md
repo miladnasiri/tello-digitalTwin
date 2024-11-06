@@ -23,3 +23,6 @@ pip install -r requirements.txt
 
 # Launch dashboard
 streamlit run tests/test_dashboard.py
+
+
+
