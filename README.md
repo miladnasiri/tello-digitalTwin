@@ -23,6 +23,17 @@ pip install -r requirements.txt
 
 # Launch dashboard
 streamlit run tests/test_dashboard.py
+```
+## Dashboard will be available at: http://localhost:8501
+
+
+
+- Basic Flight: Takeoff, Land, Emergency Stop
+- Movement: Forward/Back, Left/Right
+- Height Control: 0.3m - 10.0m adjustment
+- Height Control: 0.3m - 10.0m adjustment
+
+
 
 
 
